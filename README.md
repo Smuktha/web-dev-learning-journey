@@ -9,7 +9,7 @@ It includes a sample layout for a blog post and helps practice core HTML structu
 - Footer with basic info     
 - Clean and readable layout
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used    
 - HTML
 - CSS
 
