@@ -5,7 +5,7 @@ It includes a sample layout for a blog post and helps practice core HTML structu
   
 ## 💡 Features
 - Header with blog title
-- Blog content section with text and images
+- Blog content section with text and images   
 - Footer with basic info
 - Clean and readable layout
 
