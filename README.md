@@ -1,5 +1,5 @@
  📝 Blogging Website
-
+   
 This is a simple static blogging webpage built using basic HTML and CSS.  
 It includes a sample layout for a blog post and helps practice core HTML structure and styling.
   
