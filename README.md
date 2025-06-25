@@ -8,7 +8,7 @@ It includes a sample layout for a blog post and helps practice core HTML structu
 - Blog content section with text and images   
 - Footer with basic info     
 - Clean and readable layout   
-
+  
 ## 🛠️ Technologies Used    
 - HTML
 - CSS
